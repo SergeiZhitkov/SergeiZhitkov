@@ -1,5 +1,5 @@
 - Hi, I’m Sergei Zhitkov
 - I’m interested in program developing
-- I’m currently learning "C", "Html", "Css"
+- I’m currently learning "Python"
 - Contact:
 - hellishblade1@gmail.com
